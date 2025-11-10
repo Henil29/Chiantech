@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #f8f9fa;
+	color: #212529;
+}
+
+#root {
+	min-height: 100vh;
+}
+
+.card {
+	border-radius: 0.75rem;
+}
+
+.form-control:focus {
+	box-shadow: none;
+	border-color: #4c6ef5;
+}
